@@ -11,6 +11,6 @@
 
 4. [**_Boletín 4_ Operaciones Condicionales**](https://github.com/jjdv02/Actividades-programaci-n/blob/master/Actividades%20programaci%C3%B3n/Bolet%C3%ADn_4.py)
 
-5. [**_Boletín 5 Actividades de condicionales extra_**]()
+5. [**_Boletín 5 Actividades de condicionales extra_**](https://github.com/jjdv02/Actividades-programaci-n/blob/master/Actividades%20programaci%C3%B3n/Bolet%C3%ADn_4.py)
 
 6. [**_Boletín 6 Activiades de Bucles_**](https://github.com/jjdv02/Actividades-programaci-n/blob/master/Actividades%20programaci%C3%B3n/Bolet%C3%ADn_6.py)
