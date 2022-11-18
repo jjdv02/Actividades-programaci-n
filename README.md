@@ -1,4 +1,4 @@
-## _Repositorio de Actividades de proframación en Python_
+## _Repositorio de Actividades de programación en Python_
 ### Boletines de programación en Python del tema 1:
 
 ![Símbolo de Python](https://user-images.githubusercontent.com/115450268/202590870-b61b8a91-beb2-40b2-8a08-0afa8c71799c.png)
